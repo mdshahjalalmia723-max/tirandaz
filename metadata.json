@@ -1,0 +1,7 @@
+{
+  "name": "তীরন্দাজ - Royal Archery Champion",
+  "description": "একটি নান্দনিক ও রোমাঞ্চকর ধনুর্বিদ্যা গেম। নড়াচড়া করা বিভিন্ন আকৃতির লক্ষ্যবস্তু, ৪০টি চ্যালেঞ্জিং লেভেল, বাধা ও লিডারবোর্ড সমৃদ্ধ আর্চারি গেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
